@@ -36,3 +36,5 @@ src/config/*.json
 
 # ENV
 .env
+
+package-lock.json
