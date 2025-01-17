@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Rätsel 1",
+    "description": "27.05",
+    "questions": [
+      {
+        "id": 1,
+        "title": "Was ist die Hauptstadt von Frankreich?",
+        "correctAnswerIndex": 0,
+        "options": ["Paris", "London", "Berlin", "Madrid"]
+      },
+      {
+        "id": 2,
+        "title": "Was ist die Hauptstadt von Spanien?",
+        "correctAnswerIndex": 3,
+        "options": ["Paris", "London", "Berlin", "Madrid"]
+      }
+    ],
+    "status": "active",
+    "successTitle": "Herzlichen Glückwunsch!",
+    "successMessage": "Du hast das erste Rätsel erfolgreich abgeschlossen."
+  },
+  {
+    "id": 2,
+    "title": "Rätsel 2",
+    "description": "28.05",
+    "questions": [
+      {
+        "id": 1,
+        "title": "Was ist die Hauptstadt von Deutschland?",
+        "correctAnswerIndex": 2,
+        "options": ["Paris", "London", "Berlin", "Madrid"]
+      },
+      {
+        "id": 2,
+        "title": "Was ist die Hauptstadt von Italien?",
+        "correctAnswerIndex": 2,
+        "options": ["Paris", "London", "Rom", "Madrid"]
+      }
+    ],
+    "status": "upcoming",
+    "successTitle": "Herzlichen Glückwunsch!",
+    "successMessage": "Du hast das zweite Rätsel erfolgreich abgeschlossen."
+  }
+]

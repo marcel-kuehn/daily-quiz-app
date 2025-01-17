@@ -1,0 +1,16 @@
+{
+  "homeView": {
+    "title": "Willkommen!",
+    "description": "Bereit für eine Challenge?",
+    "successTitle": "Du hast alle Rätsel beendet!",
+    "successButton": "Zu deiner Überraschung!",
+    "lockedTitle": "Beende alle Rätsel um zu Erfahren, was die Überraschung ist.",
+    "challengesTitle": "Deine Rätsel"
+  },
+  "successView": {
+    "title": "Herzlichen Glückwunsch, du hast alle Rätsel gelöst!",
+    "description": "Klicke auf den Button um zu deiner Überraschung zu gelangen.",
+    "button": "Zu deiner Überraschung!",
+    "buttonLink": "https://www.google.com"
+  }
+}

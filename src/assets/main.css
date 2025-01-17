@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind variants;
+
+:root {
+  --primary-50: 237 243 242;
+  --primary-100: 210 224 223;
+  --primary-200: 180 203 202;
+  --primary-300: 150 182 180;
+  --primary-400: 128 167 164;
+  --primary-500: 105 151 148;
+  --primary-600: 97 143 140;
+  --primary-700: 86 132 129;
+  --primary-800: 76 122 119;
+  --primary-900: 59 105 101;
+  --surface-0: 255 255 255;
+  --surface-50: 249 250 251;
+  --surface-100: 243 244 246;
+  --surface-200: 229 231 235;
+  --surface-300: 209 213 219;
+  --surface-400: 156 163 175;
+  --surface-500: 107 114 128;
+  --surface-600: 75 85 99;
+  --surface-700: 55 65 81;
+  --surface-800: 31 41 55;
+  --surface-900: 17 24 39;
+  --surface-950: 8 8 8;
+}
+
+* {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}

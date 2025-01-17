@@ -1,0 +1,15 @@
+{
+  "successView": {
+    "button": "Fertig"
+  },
+  "challengeView": {
+    "title": "Rätsel: {title}",
+    "wrongAnswer": "Leider falsch. Bitte versuch es erneut!",
+    "button": "Überprüfen"
+  },
+  "notFoundView": {
+    "title": "Uuupsiee",
+    "description": "Du hast dich verlaufen. Ich helfe dir wieder zurück zu finden.",
+    "button": "Bring mich nach Hause"
+  }
+}
